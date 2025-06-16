@@ -56,7 +56,7 @@ Clearly identifying the design properties from a mockup — such as color styles
 - **Headings Font Weight:** Bold (700), Size: 24px–32px
 - **Secondary Text Weight:** Book (400), Size: 14px
 
-### 👥 Project Roles and Responsibilities
+## 👥 Project Roles and Responsibilities
 
 | **Role**                | **Responsibilities**                                                                                          | **Contribution to Project Success**                                                         |
 | ----------------------- | ------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
@@ -69,7 +69,7 @@ Clearly identifying the design properties from a mockup — such as color styles
 | **Product Owner**       | Define product vision, gather requirements, prioritize features, and act as liaison for stakeholders.         | Ensure the project aligns with user needs and business goals.                               |
 | **Scrum Master**        | Facilitate Agile ceremonies, remove blockers, guide team on best practices.                                   | Support team productivity and ensure smooth sprint execution.                               |
 
-### 🧩 UI Component Patterns
+## 🧩 UI Component Patterns
 
 To ensure consistency, reusability, and maintainability across the application, the following UI components are planned:
 
